@@ -193,6 +193,8 @@ As technology evolves, new vulnerabilities continue to be discovered.
 The goal of cybersecurity is therefore **not to eliminate every vulnerability**, but to identify, prioritize, and remediate vulnerabilities before attackers can exploit them.
 
 Continuous monitoring, regular patching, secure configuration, and vulnerability assessments are essential components of an effective security program.
+
+![Vulnerability Fundamentals](diagrams/vulnerability-fundamentals.png)
 ---
 ## 2. Software Vulnerabilities
 
@@ -441,6 +443,8 @@ Mitigation:
 ### Key Takeaway
 
 Software vulnerabilities are among the most exploited weaknesses in modern cybersecurity. Most originate from programming errors, insecure configurations, or inadequate input validation. Organizations reduce risk through secure software development, regular patching, vulnerability assessments, and layered security controls.
+
+![Software Vulnerabilities](diagrams/software-vulnerabilities.png)
 ---
 ## 3. Hardware and Firmware Vulnerabilities
 
@@ -610,6 +614,8 @@ Mitigation:
 ### Key Takeaway
 
 Hardware and firmware vulnerabilities operate below the operating system and are often more difficult to detect and remediate than traditional software vulnerabilities. Organizations should maintain up-to-date firmware, enable Secure Boot, apply vendor patches, and implement supply chain security practices to reduce the risk of hardware-level attacks.
+
+![Hardware and Firmware Vulnerabilities](diagrams/hardware-and-firmware-vulnerabilities.png)
 ---
 ## 4. Configuration and Implementation Vulnerabilities
 
@@ -823,6 +829,8 @@ Mitigation:
 ### Key Takeaway
 
 Configuration and implementation vulnerabilities are among the most common causes of security incidents because they result from human error rather than software defects. Organizations can significantly reduce risk by following secure configuration baselines, enforcing strong authentication and authorization, applying patches promptly, disabling unnecessary services, and implementing the Principle of Least Privilege.
+
+![Configuration and Implementation Vulnerabilities](diagrams/configuration-vulnerabilities.png)
 ---
 ## 5. Cloud, Virtualization, and Container Vulnerabilities
 
@@ -1015,6 +1023,8 @@ Mitigation:
 ### Key Takeaway
 
 Cloud, virtualization, and container technologies improve scalability and efficiency but introduce unique security risks. Most vulnerabilities result from misconfigurations, excessive permissions, insecure APIs, or poor administrative practices rather than flaws in the underlying technologies. Proper access control, continuous monitoring, regular patching, and secure configuration are essential for protecting modern computing environments.
+
+![Modern Platform Vulnerabilities](diagrams/modern-platform-vulnerabilities.png)
 ---
 ## 6. IoT and Embedded Device Vulnerabilities
 
@@ -1464,3 +1474,5 @@ Organizations should adopt the following practices to strengthen their vulnerabi
 ### Key Takeaway
 
 Vulnerability management is a continuous lifecycle that helps organizations proactively identify, assess, prioritize, remediate, validate, and monitor security weaknesses before attackers can exploit them. Effective vulnerability management significantly reduces organizational risk and is one of the most important components of a mature cybersecurity program.
+
+![Vulnerability Management Lifecycle](diagrams/vulnerability-management-lifecycle.png)

@@ -122,6 +122,8 @@ These principles reduce organizational risk regardless of the underlying technol
 ### Key Takeaway
 
 Architecture forms the foundation of cybersecurity. Every design decision influences how systems communicate, where data is stored, how users access resources, and how attackers may attempt to compromise the environment. Understanding different architecture models and their security implications enables organizations to build secure, resilient, and scalable systems.
+
+![Architecture Fundamentals](diagrams/architecture-fundamentals.png)
 ---
 ## 2. Cloud Architecture Models
 
@@ -325,6 +327,8 @@ The exact division of responsibilities depends on the cloud service model (IaaS,
 ### Key Takeaway
 
 Cloud architecture provides scalability, flexibility, and operational efficiency, but it also changes how security responsibilities are managed. Organizations must understand the differences between deployment models and apply appropriate security controls to protect identities, data, workloads, and cloud resources while fulfilling their responsibilities under the Shared Responsibility Model.
+
+![Cloud Architecture Models](diagrams/cloud-architecture-models.png)
 ---
 ## 3. Modern Application Architectures
 
@@ -515,6 +519,8 @@ Common IaC tools include:
 ### Key Takeaway
 
 Modern application architectures improve flexibility, scalability, and deployment speed but also expand the attack surface. Securing virtual machines, containers, microservices, serverless workloads, and Infrastructure as Code requires strong identity management, secure configurations, continuous monitoring, and automated security practices throughout the application lifecycle.
+
+![Modern Application Architectures](diagrams/modern-application-architectures.png)
 ---
 ## 4. API and Integration Security
 
@@ -666,6 +672,8 @@ Recommended practices include:
 ### Key Takeaway
 
 APIs are essential components of modern architectures, enabling communication between applications, cloud services, and distributed systems. Because they expose critical functionality over the network, they must be protected through strong authentication, proper authorization, input validation, encrypted communications, continuous monitoring, and secure API management.
+
+![API Security](diagrams/api-security.png)
 ---
 ## 5. Distributed Computing Architectures
 
@@ -808,6 +816,8 @@ Common examples include:
 ### Key Takeaway
 
 Distributed computing architectures improve performance, scalability, and availability by distributing computing resources across multiple locations. However, they also expand the attack surface and require strong authentication, encrypted communications, continuous monitoring, and effective device management to maintain a secure environment.
+
+![Distributed Computing Architectures](diagrams/distributed-computing-architectures.png)
 ---
 ## 6. Operational and Industrial Architectures
 
@@ -991,6 +1001,8 @@ Examples include:
 ### Key Takeaway
 
 Operational and industrial architectures extend cybersecurity beyond traditional IT environments into physical systems that support critical infrastructure and industrial operations. Because attacks against IoT, OT, ICS, SCADA, and embedded systems can disrupt essential services and impact human safety, these environments require strong access controls, secure network segmentation, continuous monitoring, regular maintenance, and carefully managed updates.
+
+![Operational and Industrial Architectures](diagrams/operational-and-industrial-architectures.png)
 ---
 ## 7. Secure Architecture Principles
 
@@ -1160,6 +1172,8 @@ Redundancy increases system resilience and reduces downtime caused by failures o
 ### Key Takeaway
 
 Secure architecture principles provide the foundation for protecting modern IT environments. Zero Trust, segmentation, layered security, high availability, and redundancy work together to reduce the attack surface, limit attacker movement, improve resilience, and ensure that critical services remain secure and available even during security incidents.
+
+![Secure Architecture Principles](diagrams/secure-architecture-principles.png)
 ---
 ## 8. Architectural Best Practices
 
