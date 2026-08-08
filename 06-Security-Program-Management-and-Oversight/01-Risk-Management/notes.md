@@ -19,8 +19,8 @@ For example:
 
 Three key concepts form the foundation of risk management:
 
-- **Risk** – The probability of an event causing harm or loss.
-- **Threat** – A source (actor or event) capable of exploiting a vulnerability.
+- **Risk** – The potential for loss or harm resulting from a threat exploiting a vulnerability, considering likelihood and impact.
+- **Threat** – A source or event with the potential to cause harm by exploiting a vulnerability.
 - **Vulnerability** – A weakness that can be exploited by a threat.
 
 ![Risk Identification](diagrams/risk-identification.png)

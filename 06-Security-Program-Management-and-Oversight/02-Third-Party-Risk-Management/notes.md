@@ -32,7 +32,7 @@ Organizations reward external security researchers for responsibly reporting vul
 
 ## Right-to-Audit Clause
 
-A contractual clause that allows an organization to audit a vendor's security controls and compliance at any time.
+A contractual clause that gives an organization the right to assess or audit a vendor's security controls and compliance according to the conditions defined in the agreement.
 
 ---
 
@@ -120,13 +120,15 @@ SLAs may include penalties if agreed service levels are not met.
 
 ## Memorandum of Agreement (MOA)
 
-A **binding** agreement that defines the responsibilities of each participating organization.
+Defines agreed responsibilities and commitments between participating organizations.
 
 ---
 
 ## Memorandum of Understanding (MOU)
 
-A **non-binding** agreement expressing mutual intent to cooperate.
+Documents a mutual understanding or intent to cooperate between organizations.
+
+The binding nature depends on the agreement's language and applicable law.
 
 ---
 

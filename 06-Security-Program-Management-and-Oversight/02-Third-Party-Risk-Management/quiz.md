@@ -111,11 +111,11 @@ D. BPA
 
 ## Question 10
 
-Which agreement is non-binding and expresses mutual intent to cooperate?
+Which agreement documents a mutual understanding or intent to cooperate between organizations?
 
-A. MOA  
-B. MOU  
-C. MSA  
+A. MOA
+B. MOU
+C. MSA
 D. SOW
 
 ---
@@ -124,7 +124,7 @@ D. SOW
 
 ## Question 11
 
-A Memorandum of Agreement (MOA) is a binding agreement that defines the responsibilities of each party.
+A Memorandum of Agreement (MOA) defines agreed responsibilities and commitments between participating organizations.
 
 - True
 - False
@@ -133,7 +133,7 @@ A Memorandum of Agreement (MOA) is a binding agreement that defines the responsi
 
 ## Question 12
 
-A Memorandum of Understanding (MOU) is a binding contract.
+A Memorandum of Understanding (MOU) documents a mutual understanding or intent to cooperate between organizations.
 
 - True
 - False

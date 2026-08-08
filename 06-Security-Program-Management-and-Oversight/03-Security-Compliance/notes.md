@@ -78,8 +78,7 @@ Examples include:
 Security programs may need to align with frameworks, standards, or regulations such as:
 
 - **ISO/IEC 27001** — Information security management systems
-- **NIST Cybersecurity Framework** — Identify, Protect, Detect, Respond, Recover
-- **GDPR** — Data protection and privacy
+- **NIST Cybersecurity Framework (CSF 2.0)** — Govern, Identify, Protect, Detect, Respond, Recover- **GDPR** — Data protection and privacy
 - **HIPAA** — Health information protection
 - **PCI DSS** — Payment card data security
 

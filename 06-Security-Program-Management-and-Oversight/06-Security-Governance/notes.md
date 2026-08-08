@@ -86,9 +86,9 @@ Standards provide consistent security practices and help organizations align wit
 
 Important elements include:
 
-- Hashing → Secure password storage
-- Salting → Random data added before hashing
-- Encryption → Protects passwords/data in transit
+- Hashing → Used for secure password storage
+- Salting → Adds unique random data before hashing
+- Encryption → Protects data confidentiality, including data in transit or at rest
 - Password reset procedures → Verify identity before reset
 - Password managers → Secure storage of complex passwords
 
